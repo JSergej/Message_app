@@ -1,0 +1,1 @@
+﻿Insert Into Messages(Status, Recipient, Text, IsGroupMessage, MMS, Picture, Audio, Video, FileName) Values('S', '345234576765', '345234576765', '0', '1', '0', '0', '1', 'sample2.wmv')

@@ -1,0 +1,1 @@
+﻿Select * From Messages Where Status = 'R' And MMS = '0'
